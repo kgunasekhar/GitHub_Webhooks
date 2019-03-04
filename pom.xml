@@ -2,6 +2,7 @@
 <modelVersion>4.0.0</modelVersion>
 <groupId>com.mkyong</groupId>
 <artifactId>NumberGenerator</artifactId>
+  <!-- This is example for maven -->
 <packaging>jar</packaging>
 <version>1.0.1-SNAPSHOT</version>
 <name>NumberGenerator</name>
