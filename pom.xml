@@ -34,20 +34,5 @@
             </plugin>
 		</plugins>
 	</build>
-	 <scm>
-		<connection>scm:svn:http://192.168.33.10:8088/subversion/trunk/</connection>
-        <developerConnection>scm:svn:http://192.168.20.10:8088/subversion/trunk/</developerConnection>
-    </scm>
-	
-	<distributionManagement>
-		<repository>
-			<id>ARTECH</id>
-			<url>http://192.168.33.1:8081/nexus/content/repositories/ARTECH/</url>
-		</repository>
-		<snapshotRepository>
-			<id>ARTECH1</id>
-			<url>http://192.168.33.1:8081/nexus/content/repositories/ARTECH1/</url>
-		</snapshotRepository>		
-  </distributionManagement>
-
+	 
 </project>
